@@ -3,4 +3,6 @@ drink = "";
 
 let isActive: Number = Math.random() > 0.5 ? 10 : 5;
 
-console.log(isActive);
+let chaiFlavour: string = "alychi tea";
+
+console.log(isActive, chaiFlavour);
