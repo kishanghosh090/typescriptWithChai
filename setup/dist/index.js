@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 function greet(name) {
-  return `hello ${name}, welcome to chai code`;
+    return `hello ${name}, welcome to chai code`;
 }
 const username = greet("kishan rana ghosh");
 console.log(username);
