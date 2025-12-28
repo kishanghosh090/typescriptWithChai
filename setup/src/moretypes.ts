@@ -28,6 +28,6 @@ function redirectAsRole(role: Role): void {
     console.log(`redirecting to user dashboard`);
   }
 }
-function never() {
+function never(): never {
   while (true) {}
 }
