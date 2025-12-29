@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function getChai(kind) {
     if (typeof kind === "string") {
         return `making ${kind} chai...`;
@@ -65,6 +63,7 @@ function brew(order) {
         //
     }
 }
+export {};
 // function isStringArray(arr: unknown) : arr is string[]{
 //     return (
 //     )

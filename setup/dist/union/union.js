@@ -1,6 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let subs = 10;
 let apiRequestStatus;
 apiRequestStatus = "error";
+export {};
 //# sourceMappingURL=union.js.map

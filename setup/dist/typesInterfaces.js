@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function makeChai(order) { }
 function serverChai(order) { }
 class MasalaChai {
@@ -14,4 +12,5 @@ const cup = {
     teaLeaves: 2,
     masala: 3,
 };
+export {};
 //# sourceMappingURL=typesInterfaces.js.map

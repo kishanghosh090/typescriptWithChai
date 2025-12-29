@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const chaiFlavours = ["masala", 23, 23];
 const ratings = [4.6, 5.0];
 const menu = [
@@ -38,4 +36,5 @@ var Suger;
 })(Suger || (Suger = {}));
 const s = Suger.HIGH;
 let tea = ["chai", 10];
+export {};
 //# sourceMappingURL=ArrayEnum.js.map

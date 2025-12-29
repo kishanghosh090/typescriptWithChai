@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let res = "56";
 let numeric = res.length;
 let bookString = '{"name":"chai"}';
@@ -29,4 +27,5 @@ function redirectAsRole(role) {
 function never() {
     while (true) { }
 }
+export {};
 //# sourceMappingURL=moretypes.js.map

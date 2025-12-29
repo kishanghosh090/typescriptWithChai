@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function makeChai(type, cup) {
     console.log(`making cups of ${type} quantity ${cup}`);
 }
@@ -8,4 +6,5 @@ function getChaiPrice() {
     return 25;
 }
 getChaiPrice();
+export {};
 //# sourceMappingURL=fun.js.map

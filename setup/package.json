@@ -11,11 +11,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "ts-node": "^10.9.2"
+    "axios": "^1.13.2"
   }
 }
